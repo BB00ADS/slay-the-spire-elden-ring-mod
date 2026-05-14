@@ -1,0 +1,43 @@
+[
+  {
+    "PROPER_NAME": "Bleed",
+    "NAMES": [
+      "bleed",
+      "Bleed"
+    ],
+    "DESCRIPTION": "When buildup reaches #b100%, the target loses #b15% of max HP; after triggering, subtract #b100% and keep overflow."
+  },
+  {
+    "PROPER_NAME": "Madness",
+    "NAMES": [
+      "madness",
+      "Madness",
+      "Frenzied Flame"
+    ],
+    "DESCRIPTION": "When buildup reaches #b100%, you lose #b33% of max HP, then the buildup resets to #b0. Madness does not disappear after combat."
+  },
+  {
+    "PROPER_NAME": "Scarlet Rot",
+    "NAMES": [
+      "scarlet rot",
+      "Scarlet Rot"
+    ],
+    "DESCRIPTION": "At end of turn, lose #b5% of max HP and reduce this by #b1 stack."
+  },
+  {
+    "PROPER_NAME": "Dragon Faith",
+    "NAMES": [
+      "dragon faith",
+      "Dragon Faith"
+    ],
+    "DESCRIPTION": "At #b10 stacks, consume all Dragon Faith and become Dragonkin. While Dragonkin, Dragon Faith gained is converted into Energy."
+  },
+  {
+    "PROPER_NAME": "Dragonkin",
+    "NAMES": [
+      "dragonkin",
+      "Dragonkin"
+    ],
+    "DESCRIPTION": "Damage you deal is doubled. Dragon Faith gained afterward is converted into Energy. Block is not doubled."
+  }
+]

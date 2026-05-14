@@ -1,0 +1,47 @@
+{
+  "tarnished:Melina": {
+    "NAME": "Melina",
+    "FLAVOR": "A maiden at the campfire, bearing grace and purpose.",
+    "DESCRIPTIONS": [
+      "At campfires, you may convert Gold into stats. Every #b100 Gold permanently increases Strength by #b2, Dexterity by #b2, and max HP by #b5.",
+      "Melina",
+      "Spend #b100 Gold to permanently gain #b2 Strength, #b2 Dexterity, and #b5 max HP.",
+      "Requires #b100 Gold."
+    ]
+  },
+  "tarnished:AlexanderShard": {
+    "NAME": "Shard of Alexander",
+    "FLAVOR": "A burning shard left by the warrior jar, still beating with battle.",
+    "DESCRIPTIONS": [
+      "The first Attack card you play each turn deals double damage."
+    ]
+  },
+  "tarnished:ShabririWoe": {
+    "NAME": "Shabriri's Woe",
+    "FLAVOR": "A calamity that draws the gaze of madness.",
+    "DESCRIPTIONS": [
+      "At the start of each turn, gain #b20% Madness. Whenever Madness triggers, heal #b20% of your max HP."
+    ]
+  },
+  "tarnished:BloodLordExultation": {
+    "NAME": "Lord of Blood's Exultation",
+    "FLAVOR": "Blood offered in battle stirs a dreadful joy.",
+    "DESCRIPTIONS": [
+      "Bleed you apply is doubled."
+    ]
+  },
+  "tarnished:DragonHeart": {
+    "NAME": "Dragon Heart",
+    "FLAVOR": "Those who consume dragon hearts draw closer to the ancient dragons.",
+    "DESCRIPTIONS": [
+      "You need only #b9 Dragon Faith to become Dragonkin."
+    ]
+  },
+  "tarnished:DarkMoonRing": {
+    "NAME": "Dark Moon Ring",
+    "FLAVOR": "A cold lunar oath, set upon the finger.",
+    "DESCRIPTIONS": [
+      "Whenever you Exhaust a card, deal #b3 damage to ALL enemies."
+    ]
+  }
+}

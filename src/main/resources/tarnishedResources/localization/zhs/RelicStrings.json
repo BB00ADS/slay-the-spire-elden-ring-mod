@@ -1,0 +1,47 @@
+{
+  "tarnished:Melina": {
+    "NAME": "梅琳娜",
+    "FLAVOR": "在篝火旁同行的少女，带来赐福与使命。",
+    "DESCRIPTIONS": [
+      "你在篝火处可以选择将金币转换为力量。每 #b100 点金币可以永久提升 #b2 点力量， #b2 点敏捷， #b5 点最大生命值。",
+      "梅琳娜",
+      "花费 #b100 金币，永久获得 #b2 点力量、 #b2 点敏捷和 #b5 点最大生命值。",
+      "需要 #b100 金币。"
+    ]
+  },
+  "tarnished:AlexanderShard": {
+    "NAME": "亚历山大的碎片",
+    "FLAVOR": "战士壶留下的炽热碎片，仍在鼓动。",
+    "DESCRIPTIONS": [
+      "每回合打出的第一张攻击牌伤害翻倍。"
+    ]
+  },
+  "tarnished:ShabririWoe": {
+    "NAME": "夏玻利利之祸",
+    "FLAVOR": "承受癫狂目光的祸根。",
+    "DESCRIPTIONS": [
+      "每回合获得 #b20% 癫狂。每当你触发癫狂后，恢复最大生命值 #b20% 的生命。"
+    ]
+  },
+  "tarnished:BloodLordExultation": {
+    "NAME": "鲜血君王的欢愉",
+    "FLAVOR": "鲜血的献祭将唤起欢愉。",
+    "DESCRIPTIONS": [
+      "你给予的出血效果翻倍。"
+    ]
+  },
+  "tarnished:DragonHeart": {
+    "NAME": "龙心脏",
+    "FLAVOR": "吞下龙心者，终将靠近古龙。",
+    "DESCRIPTIONS": [
+      "你只需要 #b9 层龙信仰就能成为龙人。"
+    ]
+  },
+  "tarnished:DarkMoonRing": {
+    "NAME": "暗月之戒",
+    "FLAVOR": "寒冷月光之誓，映在指间。",
+    "DESCRIPTIONS": [
+      "每当你消耗一张牌时，对所有敌人造成 #b3 点伤害。"
+    ]
+  }
+}

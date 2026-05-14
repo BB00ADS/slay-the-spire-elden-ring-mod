@@ -1,0 +1,417 @@
+{
+  "tarnished:Card001": {
+    "NAME": "阔剑",
+    "DESCRIPTION": "造成 !D! 点伤害",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害"
+  },
+  "tarnished:Card002": {
+    "NAME": "圆盾",
+    "DESCRIPTION": "获得 !B! 点格挡",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡"
+  },
+  "tarnished:Card003": {
+    "NAME": "猎犬长牙",
+    "DESCRIPTION": "造成 !D! 点伤害并给予20%的出血。 NL 若敌人的意图为攻击，获得 !B! 点格挡",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害并给予20%的出血。 NL 若敌人的意图为攻击，获得 !B! 点格挡"
+  },
+  "tarnished:Card004": {
+    "NAME": "灵马哨笛",
+    "DESCRIPTION": "逃离一场非boss战的战斗（消耗）",
+    "UPGRADE_DESCRIPTION": "未设计/无升级"
+  },
+  "tarnished:Card006": {
+    "NAME": "慈悲短剑",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果造成击杀则获得 !M! 点能量",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 如果造成击杀则获得 !M! 点能量"
+  },
+  "tarnished:Card007": {
+    "NAME": "仪式直剑",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果本回合上一张打出的牌是攻击牌则耗能降为0",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 如果本回合上一张打出的牌是攻击牌则耗能降为0"
+  },
+  "tarnished:Card008": {
+    "NAME": "君王军大剑",
+    "DESCRIPTION": "抽 !M! 张牌，造成 !D! 点伤害",
+    "UPGRADE_DESCRIPTION": "抽 !M! 张牌，造成 !D! 点伤害"
+  },
+  "tarnished:Card009": {
+    "NAME": "骑士大剑",
+    "DESCRIPTION": "造成 !D! 点伤害",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害"
+  },
+  "tarnished:Card010": {
+    "NAME": "巨剑",
+    "DESCRIPTION": "造成 !D! 点伤害",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害"
+  },
+  "tarnished:Card005": {
+    "NAME": "雷电",
+    "DESCRIPTION": "造成 !D! 点伤害（消耗）",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害（消耗）"
+  },
+  "tarnished:Card011": {
+    "NAME": "石像鬼剑",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 在本场战斗中将此牌变为石像鬼黑剑",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 在本场战斗中将此牌变为石像鬼黑剑+"
+  },
+  "tarnished:Card012": {
+    "NAME": "山贼弯刀",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予5%的出血效果。 NL 你每有一张山贼弯刀，此牌就额外触发一次",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 给予5%的出血效果。 NL 你每有一张山贼弯刀，此牌就额外触发一次"
+  },
+  "tarnished:Card013": {
+    "NAME": "逆刺",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予15%的出血效果",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 给予20%的出血效果"
+  },
+  "tarnished:Card014": {
+    "NAME": "黑键",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予1层虚弱",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 给予2层虚弱"
+  },
+  "tarnished:Card015": {
+    "NAME": "卡利亚讯剑",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 随机消耗一张牌",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 消耗一张指定手牌"
+  },
+  "tarnished:Card016": {
+    "NAME": "卡利亚大剑",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你每在本回合消耗1张牌，这张牌的耗能就减少1",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你每在本回合消耗1张牌，这张牌的耗能就减少1"
+  },
+  "tarnished:Card017": {
+    "NAME": "火焰力量",
+    "DESCRIPTION": "本回合结束前获得 !M! 点力量。 NL 造成 !D! 点伤害",
+    "UPGRADE_DESCRIPTION": "本回合结束前获得 !M! 点力量。 NL 造成 !D! 点伤害"
+  },
+  "tarnished:Card018": {
+    "NAME": "迸发灵火",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你的消耗牌堆中每有1张牌，伤害增加1",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你的消耗牌堆中每有1张牌，伤害增加2"
+  },
+  "tarnished:Card019": {
+    "NAME": "癫火突击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 为自身累积 !M!% 癫狂",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 为自身累积 !M!% 癫狂"
+  },
+  "tarnished:Card020": {
+    "NAME": "蚁刺",
+    "DESCRIPTION": "造成 !D! 点伤害并给予敌人1层猩红腐败",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害并给予敌人2层猩红腐败"
+  },
+  "tarnished:Card021": {
+    "NAME": "龙爪",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 获得1层龙信仰",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 获得1层龙信仰"
+  },
+  "tarnished:Card022": {
+    "NAME": "欧赫宝剑",
+    "DESCRIPTION": "造成 !D! 点伤害4次",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害4次"
+  },
+  "tarnished:Card023": {
+    "NAME": "石像鬼黑剑",
+    "DESCRIPTION": "造成 !D! 点伤害",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害"
+  },
+  "tarnished:Card024": {
+    "NAME": "奥陶琵斯漩涡",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害"
+  },
+  "tarnished:Card025": {
+    "NAME": "狼袭",
+    "DESCRIPTION": "造成 !D! 点伤害X次",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害X+1次"
+  },
+  "tarnished:Card026": {
+    "NAME": "尸山血海",
+    "DESCRIPTION": "失去3点生命值。 NL 造成 !D! 点伤害3次。 NL 每次未被格挡的伤害给予敌人20%的出血效果",
+    "UPGRADE_DESCRIPTION": "失去3点生命值。 NL 造成 !D! 点伤害3次。 NL 每次未被格挡的伤害给予敌人25%的出血效果"
+  },
+  "tarnished:Card027": {
+    "NAME": "龙焰",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 获得 !M! 层龙信仰",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 获得 !M! 层龙信仰"
+  },
+  "tarnished:Card028": {
+    "NAME": "粉碎巨人",
+    "DESCRIPTION": "造成 !D! 点伤害",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害"
+  },
+  "tarnished:Card029": {
+    "NAME": "点燃灵火",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 在抽牌堆、手牌、弃牌堆中各生成1张怨魂",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 在抽牌堆、手牌、弃牌堆中各生成1张怨魂"
+  },
+  "tarnished:Card030": {
+    "NAME": "难耐癫火",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 为自身累积 !M!% 癫狂",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 为自身累积 !M!% 癫狂"
+  },
+  "tarnished:Card031": {
+    "NAME": "划空癫火",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 为自身累积 !M!% 癫狂",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 为自身累积 !M!% 癫狂"
+  },
+  "tarnished:Card032": {
+    "NAME": "夜与火",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 使下一张被打出的攻击牌耗能降为0。 NL 此牌变为火与夜",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 使下一张被打出的攻击牌耗能降为0。 NL 此牌变为火与夜+"
+  },
+  "tarnished:Card033": {
+    "NAME": "火与夜",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 此牌变为夜与火",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 此牌变为夜与火+"
+  },
+  "tarnished:Card034": {
+    "NAME": "欧赫剑舞",
+    "DESCRIPTION": "造成 !D! 点伤害2X次",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害2X次"
+  },
+  "tarnished:Card035": {
+    "NAME": "亵渎之炎",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 为自身恢复造成的未被格挡的伤害的生命值",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 为自身恢复造成的未被格挡的伤害的生命值"
+  },
+  "tarnished:Card036": {
+    "NAME": "剑骸",
+    "DESCRIPTION": "消耗任意一张“剑”攻击牌，造成 !D! 点伤害，并将剑骸的伤害值永久+2",
+    "UPGRADE_DESCRIPTION": "消耗任意一张“剑”攻击牌，造成 !D! 点伤害，并将剑骸的伤害值永久+3"
+  },
+  "tarnished:Card037": {
+    "NAME": "水鸟乱舞",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害6次。 NL 每次未被格挡的伤害给予敌人 !M!% 的出血",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害8次。 NL 每次未被格挡的伤害给予敌人 !M!% 的出血"
+  },
+  "tarnished:Card038": {
+    "NAME": "彗星亚兹勒",
+    "DESCRIPTION": "消耗所有手牌，造成 !D! 点伤害（消耗）",
+    "UPGRADE_DESCRIPTION": "消耗所有手牌，造成 !D! 点伤害（消耗）"
+  },
+  "tarnished:Card039": {
+    "NAME": "暗月",
+    "DESCRIPTION": "造成你消耗牌堆数的伤害3次（消耗）",
+    "UPGRADE_DESCRIPTION": "造成你消耗牌堆数的伤害3次（消耗）"
+  },
+  "tarnished:Card040": {
+    "NAME": "凋零",
+    "DESCRIPTION": "造成50%最大生命值的伤害。 NL 只有龙人能打出此牌",
+    "UPGRADE_DESCRIPTION": "造成50%最大生命值的伤害。 NL 只有龙人能打出此牌"
+  },
+  "tarnished:Card041": {
+    "NAME": "怨魂",
+    "DESCRIPTION": "抽取2张牌（消耗）",
+    "UPGRADE_DESCRIPTION": "抽取3张牌（消耗）"
+  },
+  "tarnished:Card042": {
+    "NAME": "小圆盾",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 当自身没有任何格挡且这是手牌中的最后一张牌时，获得一层缓冲并消耗掉此牌",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 当自身没有任何格挡且这是手牌中的最后一张牌时，获得一层缓冲并消耗掉此牌"
+  },
+  "tarnished:Card043": {
+    "NAME": "石像鬼盾",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 在本场战斗中将此牌变为石像鬼黑盾",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 在本场战斗中将此牌变为石像鬼黑盾+"
+  },
+  "tarnished:Card044": {
+    "NAME": "黄铜盾",
+    "DESCRIPTION": "获得 !B! 点格挡",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡"
+  },
+  "tarnished:Card045": {
+    "NAME": "愤怒水母",
+    "DESCRIPTION": "获得 !B! 点格挡与1点力量",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡与1点力量"
+  },
+  "tarnished:Card046": {
+    "NAME": "大乌龟壳",
+    "DESCRIPTION": "获得 !B! 点格挡与1点敏捷",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡与1点敏捷"
+  },
+  "tarnished:Card047": {
+    "NAME": "鲜血旋流",
+    "DESCRIPTION": "失去3点生命，获得 !M! 点能量",
+    "UPGRADE_DESCRIPTION": "失去3点生命，获得 !M! 点能量"
+  },
+  "tarnished:Card048": {
+    "NAME": "火焰庇佑",
+    "DESCRIPTION": "本回合结束前获得2点敏捷。 NL 获得 !B! 点格挡",
+    "UPGRADE_DESCRIPTION": "本回合结束前获得3点敏捷。 NL 获得 !B! 点格挡"
+  },
+  "tarnished:Card049": {
+    "NAME": "桂奥尔的咆哮",
+    "DESCRIPTION": "给予所有敌人 !M! 层虚弱和易伤。 NL 获得2点龙信仰。（消耗）",
+    "UPGRADE_DESCRIPTION": "给予所有敌人 !M! 层虚弱和易伤。 NL 获得3点龙信仰。（消耗）"
+  },
+  "tarnished:Card050": {
+    "NAME": "准备架势",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 抽一张牌",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 抽一张牌"
+  },
+  "tarnished:Card051": {
+    "NAME": "决心",
+    "DESCRIPTION": "下一张打出的攻击牌造成1.5倍伤害",
+    "UPGRADE_DESCRIPTION": "下一张打出的攻击牌造成1.5倍伤害"
+  },
+  "tarnished:Card052": {
+    "NAME": "鲜血长袍",
+    "DESCRIPTION": "失去1点生命。 NL 获得 !B! 点格挡",
+    "UPGRADE_DESCRIPTION": "失去1点生命。 NL 获得 !B! 点格挡"
+  },
+  "tarnished:Card053": {
+    "NAME": "灭洛斯的怒吼",
+    "DESCRIPTION": "给予所有敌人99层易伤。 NL 给予自身3层易伤（消耗）",
+    "UPGRADE_DESCRIPTION": "给予所有敌人99层易伤。 NL 给予自身2层易伤（消耗）"
+  },
+  "tarnished:Card054": {
+    "NAME": "卡利亚式奉还",
+    "DESCRIPTION": "获得 !B! 点格挡与1层人工制品",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡与1层人工制品"
+  },
+  "tarnished:Card055": {
+    "NAME": "石像鬼黑盾",
+    "DESCRIPTION": "获得 !B! 点格挡",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡"
+  },
+  "tarnished:Card056": {
+    "NAME": "召唤怨魂",
+    "DESCRIPTION": "消耗1张牌。 NL 在手牌中加入2张怨魂",
+    "UPGRADE_DESCRIPTION": "消耗1张牌。 NL 在手牌中加入3张怨魂"
+  },
+  "tarnished:Card057": {
+    "NAME": "恢复",
+    "DESCRIPTION": "回复6点生命值（消耗）",
+    "UPGRADE_DESCRIPTION": "回复6点生命值（消耗）"
+  },
+  "tarnished:Card058": {
+    "NAME": "龙爪盾",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 获得1层龙信仰",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 获得1层龙信仰"
+  },
+  "tarnished:Card059": {
+    "NAME": "火焰疗愈",
+    "DESCRIPTION": "获得 !B! 点格挡并清除自身所有负面效果（消耗）",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡并清除自身所有负面效果（消耗）"
+  },
+  "tarnished:Card060": {
+    "NAME": "忍耐",
+    "DESCRIPTION": "获得 !B! 点格挡与3层覆甲",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡与4层覆甲"
+  },
+  "tarnished:Card061": {
+    "NAME": "黄金树庇佑",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 给予所有敌人 !M! 层虚弱",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 给予所有敌人 !M! 层虚弱"
+  },
+  "tarnished:Card062": {
+    "NAME": "授血",
+    "DESCRIPTION": "你每在自己回合失去过1次生命，就恢复1点生命",
+    "UPGRADE_DESCRIPTION": "你每在自己回合失去过1次生命，就恢复1点生命"
+  },
+  "tarnished:Card063": {
+    "NAME": "血焰刀刃",
+    "DESCRIPTION": "失去2点生命。 NL 本回合内每次未被格挡的伤害将给予敌人4%的出血效果",
+    "UPGRADE_DESCRIPTION": "失去2点生命。 NL 本回合内每次未被格挡的伤害将给予敌人6%的出血效果"
+  },
+  "tarnished:Card064": {
+    "NAME": "夏玻利利的葡萄",
+    "DESCRIPTION": "获得 !M! 点能量，为自身累计15%的癫火",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点能量，为自身累计15%的癫火"
+  },
+  "tarnished:Card065": {
+    "NAME": "传说",
+    "DESCRIPTION": "获得 !M! 点力量与 !M! 点敏捷",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点力量与 !M! 点敏捷"
+  },
+  "tarnished:Card066": {
+    "NAME": "毁灭流星",
+    "DESCRIPTION": "选择任意数量的手牌并消耗。 NL 每张被消耗掉的手牌造成 !D! 点伤害。（消耗）",
+    "UPGRADE_DESCRIPTION": "选择任意数量的手牌并消耗。 NL 每张被消耗掉的手牌造成 !D! 点伤害。（消耗）"
+  },
+  "tarnished:Card067": {
+    "NAME": "回归性原理",
+    "DESCRIPTION": "回到上一回合开始时的状态（消耗）",
+    "UPGRADE_DESCRIPTION": "回到上一回合开始时的状态（消耗）"
+  },
+  "tarnished:Card068": {
+    "NAME": "指纹石盾",
+    "DESCRIPTION": "获得 !B! 点格挡",
+    "UPGRADE_DESCRIPTION": "（保留）获得 !B! 点格挡"
+  },
+  "tarnished:Card069": {
+    "NAME": "猩红艾奥尼亚",
+    "DESCRIPTION": "清除所有敌人人工制品并给予 !M! 层猩红腐败。（消耗）",
+    "UPGRADE_DESCRIPTION": "清除所有敌人人工制品并给予 !M! 层猩红腐败。"
+  },
+  "tarnished:Card070": {
+    "NAME": "古兰桑克斯的雷电",
+    "DESCRIPTION": "在手牌中生成 !M! 张雷电。 NL 获得2点龙信仰",
+    "UPGRADE_DESCRIPTION": "在手牌中生成 !M! 张雷电。 NL 获得2点龙信仰"
+  },
+  "tarnished:Card071": {
+    "NAME": "家族怨魂",
+    "DESCRIPTION": "每回合开始时，在手牌中生成1张怨魂",
+    "UPGRADE_DESCRIPTION": "每回合开始时，在手牌中生成1张怨魂+"
+  },
+  "tarnished:Card072": {
+    "NAME": "野兽活力",
+    "DESCRIPTION": "获得5层再生",
+    "UPGRADE_DESCRIPTION": "获得7层再生"
+  },
+  "tarnished:Card073": {
+    "NAME": "龙岩",
+    "DESCRIPTION": "每回合开始时获得1点龙信仰",
+    "UPGRADE_DESCRIPTION": "每回合开始时获得1点龙信仰"
+  },
+  "tarnished:Card074": {
+    "NAME": "血蔷薇",
+    "DESCRIPTION": "每当你失去生命时，获得 !M! 点力量",
+    "UPGRADE_DESCRIPTION": "每当你失去生命时，获得 !M! 点力量"
+  },
+  "tarnished:Card075": {
+    "NAME": "创星雨",
+    "DESCRIPTION": "每当你消耗一张牌时，获得3点格挡",
+    "UPGRADE_DESCRIPTION": "每当你消耗一张牌时，获得3点格挡"
+  },
+  "tarnished:Card076": {
+    "NAME": "大山羊",
+    "DESCRIPTION": "你每回合获得的第一次格挡翻倍",
+    "UPGRADE_DESCRIPTION": "你每回合获得的第一次格挡翻倍"
+  },
+  "tarnished:Card077": {
+    "NAME": "米莉森的义手",
+    "DESCRIPTION": "在你的回合结束时，对所有敌人造成你在此回合打出的攻击牌数量的伤害",
+    "UPGRADE_DESCRIPTION": "在你的回合结束时，对所有敌人造成你在此回合打出的攻击牌数量的伤害"
+  },
+  "tarnished:Card078": {
+    "NAME": "大壶众武",
+    "DESCRIPTION": "在你的回合开始时，获得9点格挡",
+    "UPGRADE_DESCRIPTION": "在你的回合开始时，获得12点格挡"
+  },
+  "tarnished:Card079": {
+    "NAME": "暗月之誓",
+    "DESCRIPTION": "每回合第一次打出的攻击牌增加10点伤害",
+    "UPGRADE_DESCRIPTION": "每回合第一次打出的攻击牌增加15点伤害"
+  },
+  "tarnished:Card080": {
+    "NAME": "鲜血王朝",
+    "DESCRIPTION": "每次造成未被格挡的伤害时，给予敌人8%的出血效果。 NL 每次给予出血时，恢复1点生命。",
+    "UPGRADE_DESCRIPTION": "每次造成未被格挡的伤害时，给予敌人8%的出血效果。 NL 每次给予出血时，恢复1点生命。"
+  },
+  "tarnished:Card081": {
+    "NAME": "癫火之王",
+    "DESCRIPTION": "仅限本场战斗：你造成的伤害翻倍。每回合获得 !M!% 癫狂。你每次触发癫狂都会使你造成的伤害再次翻倍。",
+    "UPGRADE_DESCRIPTION": "仅限本场战斗：你造成的伤害翻倍。每回合获得 !M!% 癫狂。你每次触发癫狂都会使你造成的伤害再次翻倍。"
+  },
+  "tarnished:Card082": {
+    "NAME": "与龙为友",
+    "DESCRIPTION": "当你成为龙人时，你的所有龙信仰牌耗能减少1",
+    "UPGRADE_DESCRIPTION": "当你成为龙人时，你的所有龙信仰牌耗能减少1"
+  },
+  "tarnished:Card083": {
+    "NAME": "仿身泪滴",
+    "DESCRIPTION": "失去 !M! 点生命。选择1张手牌，将其复制品加入手牌。 NL 消耗。",
+    "UPGRADE_DESCRIPTION": "失去 !M! 点生命。选择1张牌组中的牌，将其复制品加入手牌。 NL 消耗。"
+  }
+}

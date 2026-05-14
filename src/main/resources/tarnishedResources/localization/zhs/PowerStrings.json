@@ -1,0 +1,124 @@
+{
+  "tarnished:Bleed": {
+    "NAME": "出血",
+    "DESCRIPTIONS": [
+      "出血 #b",
+      "%。达到 #b100% 时，失去最大生命值 #b15% 的生命，触发后扣除 #b100% 并保留溢出。"
+    ]
+  },
+  "tarnished:FrenzyFlame": {
+    "NAME": "癫狂",
+    "DESCRIPTIONS": [
+      "癫狂 #b",
+      "%。达到 #b100% 时，失去最大生命值 #b33% 的生命，触发后清零。"
+    ]
+  },
+  "tarnished:DragonFaith": {
+    "NAME": "龙信仰",
+    "DESCRIPTIONS": [
+      "龙信仰 #b",
+      " 层。达到 #b10 层时消耗所有龙信仰并变为 龙人 。"
+    ]
+  },
+  "tarnished:Dragonman": {
+    "NAME": "龙人",
+    "DESCRIPTIONS": [
+      "你已化为龙人。造成的伤害翻倍。后续获得的龙信仰会转化为能量。格挡不会翻倍。"
+    ]
+  },
+  "tarnished:DragonRock": {
+    "NAME": "龙岩",
+    "DESCRIPTIONS": [
+      "每回合开始时获得 #b",
+      " 层龙信仰。"
+    ]
+  },
+  "tarnished:FriendOfDragons": {
+    "NAME": "与龙为友",
+    "DESCRIPTIONS": [
+      "当你成为龙人时，手牌、抽牌堆和弃牌堆中的龙信仰牌耗能减少 #b1 。"
+    ]
+  },
+  "tarnished:ScarletRot": {
+    "NAME": "猩红腐败",
+    "DESCRIPTIONS": [
+      "每回合结束时失去最大生命值 #b5% 的生命，并减少 #b1 层。当前 #b",
+      " 层。"
+    ]
+  },
+  "tarnished:BloodflameBlade": {
+    "NAME": "血焰刀刃",
+    "DESCRIPTIONS": [
+      "本回合每次造成未被格挡的攻击伤害时，给予 #b",
+      "% 出血。"
+    ]
+  },
+  "tarnished:FamilyWraith": {
+    "NAME": "家族怨魂",
+    "DESCRIPTIONS": [
+      "每回合开始时，将 #b1 张怨魂加入手牌。",
+      "每回合开始时，将 #b1 张怨魂+加入手牌。"
+    ]
+  },
+  "tarnished:BloodRose": {
+    "NAME": "血蔷薇",
+    "DESCRIPTIONS": [
+      "每当你失去生命，获得 #b",
+      " 点力量。"
+    ]
+  },
+  "tarnished:StarShower": {
+    "NAME": "创星雨",
+    "DESCRIPTIONS": [
+      "每当你消耗一张牌，获得 #b",
+      " 点格挡。"
+    ]
+  },
+  "tarnished:GreatGoat": {
+    "NAME": "大山羊",
+    "DESCRIPTIONS": [
+      "你每回合获得的第一次格挡翻倍。"
+    ]
+  },
+  "tarnished:DarkMoonOath": {
+    "NAME": "暗月之誓",
+    "DESCRIPTIONS": [
+      "每回合第一次打出的攻击牌增加 #b",
+      " 点伤害。"
+    ]
+  },
+  "tarnished:BloodDynasty": {
+    "NAME": "鲜血王朝",
+    "DESCRIPTIONS": [
+      "每次造成未被格挡的攻击伤害时，给予 #b",
+      "% 出血，并恢复最大生命值 #b10% 的生命。"
+    ]
+  },
+  "tarnished:LordOfFrenziedFlame": {
+    "NAME": "癫火之王",
+    "DESCRIPTIONS": [
+      "你造成的攻击伤害翻倍。每回合获得 #b",
+      "% 癫狂。当前伤害翻倍次数：#b",
+      "。每次触发癫狂都会使你造成的伤害再次翻倍。"
+    ]
+  },
+  "tarnished:Determination": {
+    "NAME": "决心",
+    "DESCRIPTIONS": [
+      "下一张攻击牌造成 #b1.5 倍伤害。"
+    ]
+  },
+  "tarnished:MillicentProsthesis": {
+    "NAME": "米莉森的义手",
+    "DESCRIPTIONS": [
+      "在你的回合结束时，对所有敌人造成本回合打出的攻击牌数量的伤害。"
+    ]
+  },
+  "tarnished:GreatJarArsenal": {
+    "NAME": "大壶众武",
+    "DESCRIPTIONS": [
+      "每回合开始时，获得 #b",
+      " 点格挡。"
+    ]
+  }
+}

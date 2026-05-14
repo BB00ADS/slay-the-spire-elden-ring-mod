@@ -1,0 +1,124 @@
+{
+  "tarnished:Bleed": {
+    "NAME": "Bleed",
+    "DESCRIPTIONS": [
+      "Bleed #b",
+      "%. At #b100%, lose #b15% of max HP, then subtract #b100% and keep overflow."
+    ]
+  },
+  "tarnished:FrenzyFlame": {
+    "NAME": "Madness",
+    "DESCRIPTIONS": [
+      "Madness #b",
+      "%. At #b100%, lose #b33% of max HP, then reset to #b0."
+    ]
+  },
+  "tarnished:DragonFaith": {
+    "NAME": "Dragon Faith",
+    "DESCRIPTIONS": [
+      "Dragon Faith #b",
+      " stacks. At #b10 stacks, consume all Dragon Faith and become Dragonkin."
+    ]
+  },
+  "tarnished:Dragonman": {
+    "NAME": "Dragonkin",
+    "DESCRIPTIONS": [
+      "You are Dragonkin. Damage you deal is doubled. Dragon Faith gained afterward is converted into Energy. Block is not doubled."
+    ]
+  },
+  "tarnished:DragonRock": {
+    "NAME": "Dragon Rock",
+    "DESCRIPTIONS": [
+      "At the start of each turn, gain #b",
+      " Dragon Faith."
+    ]
+  },
+  "tarnished:FriendOfDragons": {
+    "NAME": "Befriend Dragons",
+    "DESCRIPTIONS": [
+      "When you become Dragonkin, reduce the cost of Dragon Faith cards in your hand, draw pile, and discard pile by #b1."
+    ]
+  },
+  "tarnished:ScarletRot": {
+    "NAME": "Scarlet Rot",
+    "DESCRIPTIONS": [
+      "At the end of each turn, lose #b5% of max HP and reduce this by #b1. Current stacks: #b",
+      "."
+    ]
+  },
+  "tarnished:BloodflameBlade": {
+    "NAME": "Bloodflame Blade",
+    "DESCRIPTIONS": [
+      "This turn, whenever you deal unblocked Attack damage, apply #b",
+      "% Bleed."
+    ]
+  },
+  "tarnished:FamilyWraith": {
+    "NAME": "Familial Rancor",
+    "DESCRIPTIONS": [
+      "At the start of each turn, add #b1 Rancor to your hand.",
+      "At the start of each turn, add #b1 Rancor+ to your hand."
+    ]
+  },
+  "tarnished:BloodRose": {
+    "NAME": "Bloodrose",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b",
+      " Strength."
+    ]
+  },
+  "tarnished:StarShower": {
+    "NAME": "Founding Rain of Stars",
+    "DESCRIPTIONS": [
+      "Whenever you Exhaust a card, gain #b",
+      " Block."
+    ]
+  },
+  "tarnished:GreatGoat": {
+    "NAME": "Bull-Goat",
+    "DESCRIPTIONS": [
+      "The first Block you gain each turn is doubled."
+    ]
+  },
+  "tarnished:DarkMoonOath": {
+    "NAME": "Oath of the Dark Moon",
+    "DESCRIPTIONS": [
+      "The first Attack card you play each turn deals #b",
+      " additional damage."
+    ]
+  },
+  "tarnished:BloodDynasty": {
+    "NAME": "Mohgwyn Dynasty",
+    "DESCRIPTIONS": [
+      "Whenever you deal unblocked Attack damage, apply #b",
+      "% Bleed and heal #b1 HP."
+    ]
+  },
+  "tarnished:LordOfFrenziedFlame": {
+    "NAME": "Lord of Frenzied Flame",
+    "DESCRIPTIONS": [
+      "Attack damage you deal is doubled. Gain #b",
+      "% Madness each turn. Current damage-doubling count: #b",
+      ". Each time Madness triggers, double your damage again."
+    ]
+  },
+  "tarnished:Determination": {
+    "NAME": "Determination",
+    "DESCRIPTIONS": [
+      "Your next Attack card deals #b1.5x damage."
+    ]
+  },
+  "tarnished:MillicentProsthesis": {
+    "NAME": "Millicent's Prosthesis",
+    "DESCRIPTIONS": [
+      "At the end of your turn, deal damage to ALL enemies equal to the number of Attack cards you played this turn."
+    ]
+  },
+  "tarnished:GreatJarArsenal": {
+    "NAME": "Great-Jar's Arsenal",
+    "DESCRIPTIONS": [
+      "At the start of each turn, gain #b",
+      " Block."
+    ]
+  }
+}

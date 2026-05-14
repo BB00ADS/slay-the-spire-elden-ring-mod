@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+}
+
+group = 'tarnished'
+version = '0.1.0'
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+dependencies {
+    compileOnly name: 'desktop-1.0'
+    compileOnly name: 'ModTheSpire'
+    compileOnly name: 'BaseMod'
+}
+
+jar {
+    archiveBaseName = 'TarnishedMod'
+    manifest {
+        attributes(
+                'ModTheSpire-Author': 'Codex',
+                'ModTheSpire-Name': 'The Tarnished',
+                'ModTheSpire-Version': version
+        )
+    }
+}

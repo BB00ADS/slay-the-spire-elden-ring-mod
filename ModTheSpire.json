@@ -1,0 +1,11 @@
+{
+  "modid": "tarnished",
+  "name": "The Tarnished",
+  "author_list": ["Codex"],
+  "description": "A Slay the Spire character mod based on the Tarnished design workbook.",
+  "version": "0.1.0",
+  "sts_version": "12-22-2020",
+  "mts_version": "3.30.0",
+  "dependencies": ["basemod"],
+  "update_json": ""
+}

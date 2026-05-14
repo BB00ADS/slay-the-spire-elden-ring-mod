@@ -6,7 +6,6 @@ Slay the Spire BaseMod character mod scaffold for `tarnished:`.
 
 Place these jars in `lib/` before building:
 
-- `TarnishedMod.jar`
 - `ModTheSpire.jar`
 - `BaseMod.jar`
 
